@@ -35,8 +35,8 @@ Investigate an APT attack against a multinational company using threat intellige
 | STIX ID of malware                                    | `malware--5d0ea014-1ce9-5d5c-bcc7-f625a07907d0` |
 | Initial Access technique using USB                    | `Replication Through Removable Media`            |
 | Identity of APT X                                     | `Tropic Trooper`                       |
-| Number of ATT&CK techniques linked to the APT         | `7`                                    |
-| Name of tool used by the APT                          | `Yahoyah`                              |
+| Number of ATT&CK techniques linked to the APT         | `39`                                    |
+| Name of tool used by the APT                          | `BITSAdmin`                              |
 | Sub-technique used under Valid Accounts               | `Local Accounts`                       |
 | Associated MITRE Tactics                              | `Persistence, Defense Evasion, Privilege Escalation` |
 | Technique under Collection                            | `Screen Capture`                       |
