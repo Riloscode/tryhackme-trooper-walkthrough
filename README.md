@@ -38,7 +38,7 @@ Investigate an APT attack against a multinational company using threat intellige
 | Number of ATT&CK techniques linked to the APT         | `39`                                    |
 | Name of tool used by the APT                          | `BITSAdmin`                              |
 | Sub-technique used under Valid Accounts               | `Local Accounts`                       |
-| Associated MITRE Tactics                              | `Persistence, Defense Evasion, Privilege Escalation` |
+| Associated MITRE Tactics                              | `Initial Access, Persistence,  Defense Evasion and Privilege Escalation` |
 | Technique under Collection                            | `Screen Capture`                       |
 
 ## 📁 Project Structure
