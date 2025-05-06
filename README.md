@@ -43,4 +43,12 @@ Investigate an APT attack against a multinational company using threat intellige
 
 ## 📁 Project Structure
 
+tryhackme-trooper-walkthrough/
+├── README.md
+├── walkthrough.md
+├── images/
+│ ├── opencti-dashboard.png
+│ ├── attack-navigator.png
+├── notes/
+│ └── trooper-findings.txt
 
