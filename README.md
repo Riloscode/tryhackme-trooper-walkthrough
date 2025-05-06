@@ -33,7 +33,7 @@ Investigate an APT attack against a multinational company using threat intellige
 | What kind of phishing campaign is used?              | `spear-phishing emails`               |
 | Name of malware used by APT X                         | `USBferry`                             |
 | STIX ID of malware                                    | `malware--5d0ea014-1ce9-5d5c-bcc7-f625a07907d0` |
-| Initial Access technique using USB                    | `Removable Media Execution`            |
+| Initial Access technique using USB                    | `Replication Through Removable Media`            |
 | Identity of APT X                                     | `Tropic Trooper`                       |
 | Number of ATT&CK techniques linked to the APT         | `7`                                    |
 | Name of tool used by the APT                          | `Yahoyah`                              |
