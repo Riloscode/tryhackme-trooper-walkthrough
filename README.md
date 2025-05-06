@@ -39,7 +39,7 @@ Investigate an APT attack against a multinational company using threat intellige
 | Name of tool used by the APT                          | `BITSAdmin`                              |
 | Sub-technique used under Valid Accounts               | `Local Accounts`                       |
 | Associated MITRE Tactics                              | `Initial Access, Persistence,  Defense Evasion and Privilege Escalation` |
-| Technique under Collection                            | `Screen Capture`                       |
+| Technique under Collection                            | `Automated Collection`                       |
 
 ## 📁 Project Structure
 
